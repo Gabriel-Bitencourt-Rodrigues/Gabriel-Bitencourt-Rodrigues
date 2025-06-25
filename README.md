@@ -1,10 +1,11 @@
 # 👨‍💻 Gabriel Bitencourt Rodrigues 
-**`Desenvolvedor Junior`**
 
-Me chamo Gabriel Bitencourt Rodrigues, tenho 20 anos e sou residente de Americana-SP. Concluí o ensino médio na ETEC Polivalente de Americana e atualmente sou graduando em Ciência da Computação na FAM-Faculdade de Americana. Sou entusiasta da tecnologia e estou em constante aprendizado para me tornar um grande desenvolvedor. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C41&width=435&lines=Desenvolvedor+Junior+)](https://git.io/typing-svg)
+
+Me chamo Gabriel Bitencourt Rodrigues, tenho 20 anos e sou residente de Americana-SP. Concluí o ensino médio na ETEC Polivalente de Americana e atualmente sou graduando em Ciência da Computação na FAM-Faculdade de Americana. Sou entusiasta da tecnologia e estou em constante aprendizado para me tornar um grande desenvolvedor.
 ---
 
-### 🤖 Linguagens e Tecnologias 
+### 🤖 `Linguagens e Tecnologias` 
 <img
     aling="left"
     alt="HTML"
@@ -46,7 +47,7 @@ Me chamo Gabriel Bitencourt Rodrigues, tenho 20 anos e sou residente de American
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 />
 
-___
+---
 
 ### 📚 `Graduação e Cursos`
 <p>
